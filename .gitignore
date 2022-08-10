@@ -1,0 +1,12 @@
+data/*
+notebooks/archive/*
+scripts/archive/*
+
+
+notebooks/*deneme*.ipynb
+notebooks/*Copy*.ipynb
+notebook/*sil*
+
+scripts/*deneme*
+scripts/*Copy*
+scripts/*sil*
