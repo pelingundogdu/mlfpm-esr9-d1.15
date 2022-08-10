@@ -1,6 +1,3 @@
-Deliverable 1.15 
---------
-
 Project structure
 --------
 
@@ -30,7 +27,7 @@ Project structure
     │   ├── figures                  <- Generated graphics and figures to be used in reporting
     │   └── retrieval                <- the results of retrieval performance
     │
-    └── scripts						 <- THe helper scripts
+    └── scripts                      <- The helper scripts
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
