@@ -1,3 +1,10 @@
+### ARTICLES
+**Article 1** -- Integrating pathway knowledge with deep neural networks to reduce the dimensionality in single-cell RNA-seq data ( <a target="_blank" href="https://doi.org/10.1186/s13040-021-00285-4">10.1186/s13040-021-00285-4</a> )
+
+**Article 2** -- Enhanced analysis and validation performances with multiple dataset to annotate cell type ( <a target="_blank" href="https://doi.org/10.5281/zenodo.5542325">10.5281/zenodo.5542325</a> )
+
+
+
 Project structure
 --------
 
@@ -31,6 +38,11 @@ Project structure
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+
+
+
+
+
 
 
 
